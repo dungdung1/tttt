@@ -1,0 +1,127 @@
+@CHARSET "ISO-8859-1";
+* {
+	margin: 0px;
+	padding: 0px;
+	
+}
+ 
+=======================1=============
+.chimcu1{
+	margin: 20px auto;
+	width: 750px;
+	min-height:400px;
+	border: 1px solid #999;
+	padding: 10px;
+	border-color: red;
+	background-image: "img/11440319-green-sketch-book.jpg" ;
+}
+.chimcu1 h1{
+	color:red;
+	text-align: center;
+	padding-top: 50px;
+
+}
+.chimcu1 ul{
+	margin: 10px 0px 0px 150px;
+	
+}
+.chimcu1 ul li{
+	margin-top: 25px;
+	list-style: decimal inside;
+}
+/*
+==================2==============*/
+.chimcu2{
+	margin: 20px auto;
+	width: 1200px;
+	height:900px;
+	border: 1px solid #999;
+	padding: 5px;
+	border-color: black;
+}
+.chimcu2 h1{
+	color: red;
+	text-align: center;
+	padding-top: 5px;
+
+}
+.chimcu2 h1 ul{
+
+	margin: 20px;
+}
+.chimcu2 ul li{
+	padding-top:30px;
+	display: inline-block;
+	list-style: none;
+	margin-left: 30px;
+}
+.chimcu2 ul li a{
+	display: block;
+
+	height: 200px;
+}
+/*
+=========================3===========*/
+.chimcu3{
+	margin: 20px auto;
+	width: 300px;
+	height:300px;
+	border: 1px solid #999;
+	padding: 5px;
+	border-color: black;
+}
+.chimcu3 h1{
+	color: red;
+	text-align: center;
+	padding-top: 5px;
+
+}
+.chimcu3 div.imga{
+	text-align: center;
+	padding-top: 20px 0px;
+}
+.chimcu3 div.imga img{
+	padding: 10px 0px;
+	
+}
+.chimcu3 div.imga a {
+	display: inline-block;
+	background-color: gray;
+	padding: 3px 5px;
+	text-decoration: none;
+	color: white;
+}
+.chimcu3 div.imga a :hover {
+	color: green;
+}
+
+/*
+=========================4===========*/
+.chimcu4{
+	margin: 20px auto;
+	width: 700px;
+	height:4 	00px;
+	border: 1px solid #999;
+	padding: 5px;
+	border-color: black;
+}
+.chimcu4 h1{
+	color: red;
+	text-align: center;
+	padding-top: 5px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

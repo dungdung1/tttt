@@ -1,0 +1,18 @@
+@CHARSET "ISO-8859-1";
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.content3{
+	width: 500px;
+
+	margin: 20px auto;
+	padding: 20px;
+	border: 1px solid black;
+
+}
+.content3 h2{
+	color: red;
+	text-align: center;
+
+}

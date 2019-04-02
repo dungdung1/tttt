@@ -1,0 +1,25 @@
+@CHARSET "ISO-8859-1";
+*{
+	padding: 0px;
+	margin: 0px;
+}
+div.connec{
+	width: 800px;
+	height: auto;
+	border: 2px solid black;
+	margin: 20px auto;
+	padding: 20px;
+}
+div.connec div{
+	border: 1px solid green;
+	padding: 5px;
+	text-align: center;
+	padding-bottom: 10px;
+}
+div.connec div p{
+	font-weight: bold;
+
+}
+div.connec div p span{
+	font-style: italic;
+}

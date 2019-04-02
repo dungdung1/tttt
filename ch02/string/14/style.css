@@ -1,0 +1,28 @@
+@CHARSET "ISO-8859-1";
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.conten1{
+	margin: 20px auto;
+	width: 500px;
+	border: 1px solid red;
+	padding: 10px;
+}
+.conten1 h1{
+	text-align: center;
+	color: black;
+}
+.conten1 ul.funtion{
+	margin-top:20px;
+	list-style: inside;
+	text-align: justify;
+}
+.conten1 ul.funtion li{
+	line-height: 30px;
+}
+.conten1 ul.funtion li span{
+	display: inline-block;
+	width: 120px;
+	font-weight: bold;
+}
